@@ -26,7 +26,7 @@ npm run docker
 
 ### Starting Container
 
-Um die Container zu starten führe den Befehl aus:
+Um die Container zu starten führe den Befehl im Hauptordner aus:
 
 ```bash
 docker compose up -d
@@ -36,7 +36,7 @@ Die Website sollte sofort unter localhost:3000 erreichbar sein, jedoch dauert da
 
 ### Stopping Container
 
-Um die Container zu stoppen führe den Befehl aus:
+Um die Container zu stoppen führe den Befehl im Hauptordner aus:
 
 ```bash
 docker compose down
