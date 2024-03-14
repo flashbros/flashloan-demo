@@ -16,7 +16,7 @@ Gehe in demo-website und smart-contract Ordner und führe jeweils diesen Befehl 
 npm run docker
 ```
 
-### Starting the Container
+### Starting Container
 
 Um die Container zu starten führe den Befehl aus:
 ```bash
@@ -25,7 +25,7 @@ docker compose up -d
 
 Die Website sollte sofort unter localhost:3000 erreichbar sein, jedoch dauert das deployen der Contracts normalerweiser ein bisschen länger.
 
-### Stopping the Container
+### Stopping Container
 
 Um die Container zu stoppen führe den Befehl aus:
 ```bash
