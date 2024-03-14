@@ -1,0 +1,6 @@
+[submodule "demo-website"]
+	path = demo-website
+	url = https://github.com/flashbros/demo-website
+[submodule "smart-contract"]
+	path = smart-contract
+	url = https://github.com/flashbros/smart-contract
