@@ -9,10 +9,10 @@ git clone --recurse-submodules https://github.com/flashbros/flashloan-demo
 
 Dieses Projekt benötigt Docker zum ausführen. Docker ist eine Plattform, mit der Anwendungen in Containern entwickelt, ausgeliefert und ausgeführt werde können.
 
-Sie können Docker von der offiziellen Website herunterladen:
+Hier kann Docker von der offiziellen Website heruntergeladen werden:
 [Docker Download](https://www.docker.com/products/docker-desktop)
 
-Stelle sicher, dass Docker gestartet ist
+Stelle sicher, dass Docker gestartet ist.
 
 ## Ausführung
 
