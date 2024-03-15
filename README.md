@@ -7,7 +7,7 @@ git clone --recurse-submodules https://github.com/flashbros/flashloan-demo
 
 ## Voraussetzungen
 
-Dieses Projekt benötigt Docker zum ausführen. Docker ist eine Plattform, mit der Anwendungen in Containern entwickelt, ausgeliefert und ausgeführt werde können.
+Dieses Projekt benötigt Docker zum ausführen. Docker ist eine Plattform, mit der Anwendungen in Containern entwickelt, ausgeliefert und ausgeführt werden können.
 
 Hier kann Docker von der offiziellen Website heruntergeladen werden:
 [Docker Download](https://www.docker.com/products/docker-desktop)
@@ -32,7 +32,7 @@ Um die Container zu starten führe den Befehl im Hauptordner aus:
 docker compose up -d
 ```
 
-Die Website sollte sofort unter localhost:3000 erreichbar sein, jedoch dauert das deployen der Contracts normalerweiser ein bisschen länger.
+Die Website sollte unter der Adresse ``localhost:3000`` im Browser erreichbar sein, jedoch dauert das deployen der Contracts normalerweiser ein bisschen länger.
 
 ### Stopping Container
 
